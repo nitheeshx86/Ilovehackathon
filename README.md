@@ -1,10 +1,10 @@
 # I_love_hackathon_chennai_web_3_edition
 
-# Blockchain-Based Vehicle Authentication System
+# Blockchain-Based Real World Assets Authentication System
 
 ## Overview
 
-This project is a decentralized vehicle authentication system using blockchain technology. It allows vehicle manufacturers, owners, and service centers to register, track, and verify vehicle parts using smart contracts. The system ensures the authenticity of vehicle components, preventing fraud, theft, and black-market sales.
+This project is a decentralized vehicle parts authentication system using blockchain technology. It allows vehicle manufacturers, owners, and service centers to register, track, and verify vehicle parts using smart contracts. The system ensures the authenticity of vehicle components, preventing fraud, theft, and black-market sales.
 
 ---
 
